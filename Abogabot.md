@@ -1,25 +1,45 @@
 # Abogabot
 Caso Abogabot:
-A continuación se resumira el tema de Abogabot, una aplicación enfocada a la automatización de demandas con sus clientes usando un formulario donde se capturaran 
-los datos, posterios a esto se procedera al metodo de pago para poder aprobar dicha demanda del cielnte. 
+A continuación se resumirá el tema de Abogabot, una aplicación enfocada a la automatización de demandas con sus clientes usando un formulario donde se capturaran 
+los datos, posteríos a esto se procederá al método de pago para poder aprobar dicha demanda del cliente. 
 
 
-## Requerimentos de la aplicacion
-La aplicación debera de contar con dos roles, **Administrador y Cliente**, a continuación se mostrará que caracteristicas debera de tener cada rol:
+## Requerimientos de la aplicación
+La aplicación deberá de contar con dos roles, **Administrador y Cliente**, a continuación se mostrará que características deberá de tener cada rol:
 
 ### Administrador
 
-1 El administrador debera de poseer permisos tales como: **Leer, actualizar, ver y  recibir** todas las solicitudes de los clientes.
-- Todo documento creado a traves del formilario sera creado en formato WORD.
-- El administador y el cliente podrá añadir comentarios al gusto.
+1 El administrador deberá de poseer permisos tales como: **Leer, actualizar, ver y  recibir** todas las solicitudes de los clientes.
+- Todo documento creado a través del formulario será creado en formato WORD.
+- El administrador y el cliente podrá añadir comentarios al gusto.
 
-2 El administrador tambien tendra la posibilidad de: **Leer, ver y  recibir** todos los pagos que el cliente realize.
+2 El administrador también tendrá la posibilidad de: **Leer, ver y  recibir** todos los pagos que el cliente realice.
 - Esta información se vera reflejada en un Dashboard.
 
-3 El administrador tambien tendra la posibilidad de: **Comunicarser** con su cliente
+3 El administrador también tendrá la posibilidad de: **Comunicarse** con su cliente
 
-### Cliente (generador de la demanda)
+### Cliente (generador de la demanda) 
 
-1 El cliente podra **Editar y comentar** su demanda en cuestion.
-2 El cliente podra **Pagar** usando la aplicación la cual mostrara los diferentes metodos de pago.
-3 El cliente podra **Comunicarse** con algun administrador de la pagina de ser necesario.
+1 El cliente podra **Editar y comentar** su demanda en cuestión.
+
+2 El cliente podra **Pagar** usando la aplicación la cual mostrara los diferentes métodos de pago.
+
+3 El cliente podrá **Comunicarse** con algún administrador de la pagina de ser necesario.
+
+## Diagrama de flujo de la aplicación realizada en Miro (https://miro.com/app/board/uXjVPOWkZII=/?moveToWidget=3458764535884443744&cot=14)
+En el presente diagrama se muestra el mapeo de navegación que la aplicación **Abogabot** que tendría, tomando en cuenta los anteriores puntos presentados. 
+
+![Abogabot-Target Audience - Mapa de navegación de Abogabot ](https://user-images.githubusercontent.com/115331686/195663411-819506a9-32b1-43be-b389-9886c69a83e6.jpg)
+
+
+
+## Byer persona (diseño persona): https://www.hubspot.es/make-my-persona?persona=-NEHO5e-Q4_8KBe_5I4A
+El Byer persona es la investigación y resumen de información para determinar a los potenciales clientes del producto o servicio.
+
+[Ricardo Reyes (Buyer Persona).pdf](https://github.com/CharlieCCR/Caso-Abogabot/files/9779159/Ricardo.Reyes.Buyer.Persona.pdf)
+
+## Publico objetivo (https://miro.com/app/board/uXjVPOWkZII=/?moveToWidget=3458764535888602874&cot=14)
+
+![Abogabot-Target Audience - Publico objetivo (Abogabot)](https://user-images.githubusercontent.com/115331686/195671485-bbefa86b-ff2e-4f74-ba4c-b48b471daec4.jpg)
+
+## Diseño UX
