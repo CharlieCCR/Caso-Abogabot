@@ -1,7 +1,7 @@
 # Abogabot
 Caso Abogabot:
 A continuación se resumirá el tema de Abogabot, una aplicación enfocada a la automatización de demandas con sus clientes usando un formulario donde se capturaran 
-los datos, posteríos a esto se procederá al método de pago para poder aprobar dicha demanda del cliente. 
+los datos del demandante y, posterior a esto, se procederá al método de pago para poder aprobar dicha demanda del cliente. 
 
 
 ## Requerimientos de la aplicación
