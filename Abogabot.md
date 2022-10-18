@@ -46,3 +46,4 @@ El Byer persona es la investigación y resumen de información para determinar a
 El diseño UX (User Experience) es el diseño enfocado a la experiencia que el usuario tendrá a la hora de probar cualquier interfaz, para este punto el diseño debe de estar más enfocado a las mecánicas más que al del diseño, para así comprobar su efectividad ante el publico.
 ![UX - Abogabot](https://user-images.githubusercontent.com/115331686/196501488-78480549-d871-4917-8695-fa69ee4b2780.jpg)
  
+ ## Diseño UI 
