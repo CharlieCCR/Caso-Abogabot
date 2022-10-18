@@ -46,4 +46,8 @@ El Byer persona es la investigación y resumen de información para determinar a
 El diseño UX (User Experience) es el diseño enfocado a la experiencia que el usuario tendrá a la hora de probar cualquier interfaz, para este punto el diseño debe de estar más enfocado a las mecánicas más que al del diseño, para así comprobar su efectividad ante el publico.
 ![UX - Abogabot](https://user-images.githubusercontent.com/115331686/196501488-78480549-d871-4917-8695-fa69ee4b2780.jpg)
  
- ## Diseño UI 
+ ## Diseño UI (https://www.figma.com/file/HVORPEGG9TGxOgglv3rSYM/UI---Abogabot?node-id=0%3A1)
+ El diseño UI (User Interface) es, como su nombre lo indica, el diseño de la interfaz de usuario, en esta sección, se profundiza más en el diseño, colores, icono etc. De todo lo que conlleva, en este caso, la aplicación Abogabot.
+ 
+ ![image](https://user-images.githubusercontent.com/115331686/196506590-65f9e0ca-b388-4be9-ba61-1159253b26da.png)
+
