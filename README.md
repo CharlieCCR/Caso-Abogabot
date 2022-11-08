@@ -1,8 +1,9 @@
-# Practicas-HTML
-Repositorio FrontEnd-BackEnd
+# Practicas FrontEnd
+Repositorio FrontEnd
 
 ## ¡Bienvenido a mi repositorio!
-Mi nombre es Carlos Calderón Reyes (me puedes llamar Charlie :D) y este es mi repositorio que he estado usando para subir mis practicas relacionado con la experiencia en Launch X Latam.
+Mi nombre es Carlos Calderón Reyes (me puedes llamar Charlie :D) y este es mi repositorio que he estado usando para subir mis practicas relacionado con la experiencia en Launch X Latam relacioando con el FrontEnd.
 
 # Practicas FrontEnd
-1. [Programación FrontEnd](./01%20-%20INTRO/README.md)
+1. [UX - Abogabot] (./UX - Abogabot)
+
